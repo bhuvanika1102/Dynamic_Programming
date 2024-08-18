@@ -20,6 +20,11 @@ Each file in this repository is a standalone example of a specific dynamic progr
    ```bash
    git clone https://github.com/yourusername/dynamic-programming-examples.git
 2.Navigate to the directory and Run:
- ```bash
-cd Problem_Solving
-python filename.py
+    ```bash
+   cd Problem_Solving
+   python filename.py
+
+------
+### Contact
+
+If you have any questions or suggestions, please feel free to open an issue or contact me via bhuvani1102@gmail.com.
