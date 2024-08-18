@@ -24,12 +24,6 @@ Each file in this repository is a standalone example of a specific dynamic progr
    
    python filename.py
 
-
-
-
-
-
-
 ------
 ### Contact
 
