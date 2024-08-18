@@ -21,5 +21,5 @@ Each file in this repository is a standalone example of a specific dynamic progr
    git clone https://github.com/yourusername/dynamic-programming-examples.git
 2.Navigate to the directory and Run:
  ```bash
-cd Dynamic_Programming
+cd Problem_Solving
 python filename.py
